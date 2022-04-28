@@ -61,7 +61,7 @@ export class UserComponent implements OnInit {
       }
     ]
   }
-
+  //App
   ngOnInit(): void {
     this.readAllUsers();
     this.defaultSelectUser();
